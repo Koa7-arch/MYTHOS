@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Black hole event horizon with golden and violet accretion disk">
+<defs>
+ <radialGradient id="space"><stop stop-color="#241034"/><stop offset=".65" stop-color="#10071d"/><stop offset="1" stop-color="#03030b"/></radialGradient>
+ <linearGradient id="disk" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7724c9"/><stop offset=".22" stop-color="#f27121"/><stop offset=".48" stop-color="#fff0a3"/><stop offset=".7" stop-color="#ff9d22"/><stop offset="1" stop-color="#8c25e0"/></linearGradient>
+ <linearGradient id="hot" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#9b32f4"/><stop offset=".3" stop-color="#ff8b18"/><stop offset=".55" stop-color="#fff5bd"/><stop offset=".8" stop-color="#ffb32d"/><stop offset="1" stop-color="#bd45fc"/></linearGradient>
+ <filter id="glow" x="-50%" y="-100%" width="200%" height="300%"><feGaussianBlur stdDeviation="9"/></filter>
+ <clipPath id="round"><rect width="512" height="512" rx="92"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+ <rect width="512" height="512" fill="url(#space)"/>
+ <g fill="#c5a4ff" opacity=".8"><circle cx="76" cy="81" r="1.5"/><circle cx="402" cy="83" r="2"/><circle cx="454" cy="187" r="1.4"/><circle cx="63" cy="365" r="2"/><circle cx="430" cy="407" r="1.5"/><circle cx="137" cy="450" r="1.2"/><circle cx="338" cy="54" r="1.2"/><circle cx="102" cy="221" r="1"/></g>
+ <ellipse cx="256" cy="262" rx="205" ry="93" transform="rotate(-19 256 262)" fill="none" stroke="#a34bff" stroke-width="22" opacity=".4" filter="url(#glow)"/>
+ <ellipse cx="256" cy="262" rx="207" ry="91" transform="rotate(-19 256 262)" fill="none" stroke="url(#disk)" stroke-width="22" opacity=".88"/>
+ <circle cx="256" cy="251" r="113" fill="none" stroke="#ffab32" stroke-width="22" opacity=".8" filter="url(#glow)"/>
+ <circle cx="256" cy="251" r="111" fill="none" stroke="url(#hot)" stroke-width="13"/>
+ <circle cx="256" cy="251" r="104" fill="#010107"/>
+ <path d="M62 323 C127 308 172 279 215 266 C283 242 349 243 455 205" fill="none" stroke="#ff8b20" stroke-width="35" opacity=".65" filter="url(#glow)"/>
+ <path d="M55 330 C131 309 172 284 216 271 C290 249 355 243 460 201" fill="none" stroke="url(#hot)" stroke-width="19" stroke-linecap="round"/>
+ <path d="M69 335 C140 313 185 289 225 277 C304 253 379 237 447 211" fill="none" stroke="#fff0a0" stroke-width="5" stroke-linecap="round" opacity=".95"/>
+ <rect x="9" y="9" width="494" height="494" rx="84" fill="none" stroke="#d9a447" stroke-width="9"/>
+ <rect x="18" y="18" width="476" height="476" rx="77" fill="none" stroke="#ffdf89" stroke-width="2" opacity=".7"/>
+</g>
+</svg>
