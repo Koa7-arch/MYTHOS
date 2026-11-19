@@ -1,0 +1,252 @@
+[
+  {
+    "id": "fenrir",
+    "name": "Fenrir",
+    "tradition": "Norse",
+    "type": "Wolf",
+    "glyph": "🐺",
+    "aliases": "Fenrisúlfr",
+    "description": "A monstrous wolf, child of Loki and Angrboða. Bound by the gods with Gleipnir, Fenrir is foretold to kill Odin at Ragnarök before Víðarr avenges him.",
+    "sources": "Poetic Edda: Völuspá; Prose Edda: Gylfaginning"
+  },
+  {
+    "id": "cerberus",
+    "name": "Cerberus",
+    "tradition": "Greek",
+    "type": "Guardian",
+    "glyph": "🐕",
+    "aliases": "Kerberos",
+    "description": "The formidable hound who guards the realm of the dead. His number of heads varies among ancient accounts; the three-headed depiction became especially familiar.",
+    "sources": "Hesiod: Theogony; Apollodorus: Bibliotheca"
+  },
+  {
+    "id": "ammit",
+    "name": "Ammit",
+    "tradition": "Egyptian",
+    "type": "Composite",
+    "glyph": "🐊",
+    "aliases": "Ammut",
+    "description": "A supernatural devourer associated with judgment of the dead, depicted with crocodile, lion, and hippopotamus features.",
+    "sources": "Book of the Dead: Spell 125"
+  },
+  {
+    "id": "kitsune",
+    "name": "Kitsune",
+    "tradition": "Japanese",
+    "type": "Fox spirit",
+    "glyph": "🦊",
+    "aliases": "Fox spirit",
+    "description": "Foxes in Japanese traditions can be associated with transformation, uncanny intelligence, and encounters with humans. Their roles differ widely by tale and region.",
+    "sources": "Konjaku Monogatari-shū; regional folklore"
+  },
+  {
+    "id": "qilin",
+    "name": "Qilin",
+    "tradition": "Chinese",
+    "type": "Auspicious",
+    "glyph": "🦄",
+    "aliases": "Kirin",
+    "description": "An auspicious creature linked to virtue and wise rule. Its appearance and meaning have developed across Chinese literary and artistic traditions.",
+    "sources": "Classical Chinese literature and iconography"
+  },
+  {
+    "id": "hydra",
+    "name": "Lernaean Hydra",
+    "tradition": "Greek",
+    "type": "Serpent",
+    "glyph": "🐍",
+    "aliases": "Hydra",
+    "description": "A many-headed serpent of Lerna defeated by Heracles as one of his labors. Accounts vary in details of its heads and regenerative powers.",
+    "sources": "Apollodorus: Bibliotheca 2.5.2"
+  },
+  {
+    "id": "jormungandr",
+    "name": "Jörmungandr",
+    "tradition": "Norse",
+    "type": "Serpent",
+    "glyph": "🐉",
+    "aliases": "Miðgarðsormr",
+    "description": "The enormous world-encircling serpent associated with Thor and Ragnarök, and counted among Loki’s children.",
+    "sources": "Poetic Edda: Hymiskviða; Prose Edda: Gylfaginning"
+  },
+  {
+    "id": "kappa",
+    "name": "Kappa",
+    "tradition": "Japanese",
+    "type": "Water spirit",
+    "glyph": "🐢",
+    "aliases": "Kawatarō",
+    "description": "A water-dwelling figure often portrayed with a dish-shaped hollow on its head; local accounts portray it as mischievous, dangerous, or occasionally helpful.",
+    "sources": "Japanese regional folklore"
+  },
+  {
+    "id": "apep",
+    "name": "Apep",
+    "tradition": "Egyptian",
+    "type": "Serpent",
+    "glyph": "🐍",
+    "aliases": "Apophis",
+    "description": "A serpent associated with disorder who opposes the sun god during the nightly journey of the solar bark.",
+    "sources": "Egyptian funerary and solar texts"
+  },
+  {
+    "id": "fenghuang",
+    "name": "Fenghuang",
+    "tradition": "Chinese",
+    "type": "Bird",
+    "glyph": "🦚",
+    "aliases": "Chinese phoenix (approx.)",
+    "description": "An auspicious mythical bird associated with harmony, virtue, and legitimate rule, not identical to the reborn phoenix of Greek traditions.",
+    "sources": "Classical Chinese texts and art"
+  },
+  {
+    "id": "minotaur",
+    "name": "Minotaur",
+    "tradition": "Greek",
+    "type": "Hybrid",
+    "glyph": "🐂",
+    "aliases": "Asterion (in some accounts)",
+    "description": "A bull-headed figure confined in the Cretan labyrinth and defeated by Theseus.",
+    "sources": "Apollodorus: Bibliotheca 3.1.4; Epitome 1"
+  },
+  {
+    "id": "chimera",
+    "name": "Chimera",
+    "tradition": "Greek",
+    "type": "Hybrid",
+    "glyph": "🦁",
+    "aliases": "Chimaira",
+    "description": "A fire-breathing composite monster with lion, goat, and serpent features, slain by Bellerophon.",
+    "sources": "Homer: Iliad 6; Hesiod: Theogony"
+  },
+  {
+    "id": "pegasus",
+    "name": "Pegasus",
+    "tradition": "Greek",
+    "type": "Winged horse",
+    "glyph": "🪽",
+    "aliases": "Pegasos",
+    "description": "The winged horse connected with Medusa and the hero Bellerophon in Greek traditions.",
+    "sources": "Hesiod: Theogony; Pindar: Olympian 13"
+  },
+  {
+    "id": "sleipnir",
+    "name": "Sleipnir",
+    "tradition": "Norse",
+    "type": "Horse",
+    "glyph": "🐎",
+    "aliases": "Eight-legged horse",
+    "description": "Odin’s extraordinary eight-legged horse, described in the Prose Edda as the offspring of Loki and Svaðilfari.",
+    "sources": "Prose Edda: Gylfaginning"
+  },
+  {
+    "id": "nidhoggr",
+    "name": "Níðhöggr",
+    "tradition": "Norse",
+    "type": "Dragon",
+    "glyph": "🐉",
+    "aliases": "Nidhogg",
+    "description": "A dragon or serpent associated with the roots of Yggdrasil and the imagery of the dead in Old Norse poetry.",
+    "sources": "Poetic Edda: Grímnismál; Völuspá"
+  },
+  {
+    "id": "bennu",
+    "name": "Bennu",
+    "tradition": "Egyptian",
+    "type": "Sacred bird",
+    "glyph": "🪶",
+    "aliases": "Benu",
+    "description": "A sacred bird associated with solar renewal and creation, linked in later comparisons to the Greek phoenix.",
+    "sources": "Egyptian religious texts and iconography"
+  },
+  {
+    "id": "sphinx",
+    "name": "Sphinx",
+    "tradition": "Egyptian",
+    "type": "Composite",
+    "glyph": "🦁",
+    "aliases": "Human-headed lion",
+    "description": "A composite guardian figure, often represented as a lion with a human head; Egyptian and Greek sphinx traditions differ.",
+    "sources": "Egyptian royal iconography"
+  },
+  {
+    "id": "tengu",
+    "name": "Tengu",
+    "tradition": "Japanese",
+    "type": "Mountain spirit",
+    "glyph": "🪶",
+    "aliases": "Tengu",
+    "description": "A varied class of supernatural beings connected with mountains, ascetics, and martial legends; portrayals range from birdlike to long-nosed.",
+    "sources": "Medieval Japanese setsuwa and folklore"
+  },
+  {
+    "id": "oni",
+    "name": "Oni",
+    "tradition": "Japanese",
+    "type": "Ogre",
+    "glyph": "👹",
+    "aliases": "Oni",
+    "description": "Powerful supernatural beings whose depictions and moral roles vary across Buddhist, literary, and folk traditions.",
+    "sources": "Japanese Buddhist literature and folklore"
+  },
+  {
+    "id": "yuki-onna",
+    "name": "Yuki-onna",
+    "tradition": "Japanese",
+    "type": "Snow spirit",
+    "glyph": "❄️",
+    "aliases": "Snow woman",
+    "description": "A female snow-associated supernatural figure appearing in varied regional Japanese stories.",
+    "sources": "Regional Japanese folklore; later literary retellings"
+  },
+  {
+    "id": "long",
+    "name": "Long",
+    "tradition": "Chinese",
+    "type": "Dragon",
+    "glyph": "🐲",
+    "aliases": "Lóng",
+    "description": "Chinese dragons are diverse powerful beings associated with water, weather, and auspicious authority; forms vary by era and tradition.",
+    "sources": "Chinese classical literature and iconography"
+  },
+  {
+    "id": "bai-ze",
+    "name": "Bai Ze",
+    "tradition": "Chinese",
+    "type": "Wise beast",
+    "glyph": "📜",
+    "aliases": "Baize",
+    "description": "A legendary knowledgeable beast associated with accounts of spirits and supernatural beings.",
+    "sources": "Chinese legendary literature"
+  },
+  {
+    "id": "taotie",
+    "name": "Taotie",
+    "tradition": "Chinese",
+    "type": "Motif / beast",
+    "glyph": "🦬",
+    "aliases": "Taotie",
+    "description": "A name associated with a striking face motif on ritual bronzes and later literary interpretations; its status as a distinct creature is debated.",
+    "sources": "Bronze art history; later Chinese texts"
+  },
+  {
+    "id": "ratatoskr",
+    "name": "Ratatoskr",
+    "tradition": "Norse",
+    "type": "Squirrel",
+    "glyph": "🐿️",
+    "aliases": "Ratatosk",
+    "description": "A squirrel who travels up and down Yggdrasil, carrying words between the eagle above and Níðhöggr below.",
+    "sources": "Poetic Edda: Grímnismál; Prose Edda: Gylfaginning"
+  },
+  {
+    "id": "fafnir",
+    "name": "Fáfnir",
+    "tradition": "Norse",
+    "type": "Dragon",
+    "glyph": "🐉",
+    "aliases": "Fafnir",
+    "description": "A figure who becomes a dragon guarding treasure and is slain by Sigurðr in the heroic cycle.",
+    "sources": "Völsunga saga; Fáfnismál"
+  }
+]
