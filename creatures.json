@@ -3,250 +3,900 @@
     "id": "fenrir",
     "name": "Fenrir",
     "tradition": "Norse",
-    "type": "Wolf",
+    "category": "Wolves & beasts",
+    "type": "Wolves & beasts",
     "glyph": "🐺",
     "aliases": "Fenrisúlfr",
-    "description": "A monstrous wolf, child of Loki and Angrboða. Bound by the gods with Gleipnir, Fenrir is foretold to kill Odin at Ragnarök before Víðarr avenges him.",
-    "sources": "Poetic Edda: Völuspá; Prose Edda: Gylfaginning"
+    "description": "Loki's monstrous wolf is bound by the gods and foretold to kill Odin at Ragnarök.",
+    "sources": "Poetic Edda, Völuspá; Prose Edda, Gylfaginning",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "cerberus",
     "name": "Cerberus",
     "tradition": "Greek",
-    "type": "Guardian",
+    "category": "Guardians",
+    "type": "Guardians",
     "glyph": "🐕",
     "aliases": "Kerberos",
-    "description": "The formidable hound who guards the realm of the dead. His number of heads varies among ancient accounts; the three-headed depiction became especially familiar.",
-    "sources": "Hesiod: Theogony; Apollodorus: Bibliotheca"
+    "description": "A formidable hound guards the underworld; ancient descriptions vary in the number of heads.",
+    "sources": "Hesiod, Theogony; Apollodorus, Bibliotheca",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "ammit",
     "name": "Ammit",
     "tradition": "Egyptian",
-    "type": "Composite",
+    "category": "Hybrids",
+    "type": "Hybrids",
     "glyph": "🐊",
     "aliases": "Ammut",
-    "description": "A supernatural devourer associated with judgment of the dead, depicted with crocodile, lion, and hippopotamus features.",
-    "sources": "Book of the Dead: Spell 125"
+    "description": "The devourer of the unworthy dead combines crocodile, lion, and hippopotamus features.",
+    "sources": "Book of the Dead, Spell 125",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "kitsune",
     "name": "Kitsune",
     "tradition": "Japanese",
-    "type": "Fox spirit",
+    "category": "Spirits & yōkai",
+    "type": "Spirits & yōkai",
     "glyph": "🦊",
     "aliases": "Fox spirit",
-    "description": "Foxes in Japanese traditions can be associated with transformation, uncanny intelligence, and encounters with humans. Their roles differ widely by tale and region.",
-    "sources": "Konjaku Monogatari-shū; regional folklore"
+    "description": "Supernatural foxes can transform and interact with humans; their character varies by region and story.",
+    "sources": "Konjaku Monogatari-shū; regional folklore",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "qilin",
     "name": "Qilin",
     "tradition": "Chinese",
-    "type": "Auspicious",
+    "category": "Auspicious beings",
+    "type": "Auspicious beings",
     "glyph": "🦄",
     "aliases": "Kirin",
-    "description": "An auspicious creature linked to virtue and wise rule. Its appearance and meaning have developed across Chinese literary and artistic traditions.",
-    "sources": "Classical Chinese literature and iconography"
+    "description": "An auspicious creature associated with virtue and sage rulers, with varied artistic forms.",
+    "sources": "Classical Chinese literature and iconography",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "hydra",
     "name": "Lernaean Hydra",
     "tradition": "Greek",
-    "type": "Serpent",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
     "glyph": "🐍",
     "aliases": "Hydra",
-    "description": "A many-headed serpent of Lerna defeated by Heracles as one of his labors. Accounts vary in details of its heads and regenerative powers.",
-    "sources": "Apollodorus: Bibliotheca 2.5.2"
+    "description": "Heracles confronts the many-headed serpent of Lerna; details of its heads vary among tellings.",
+    "sources": "Apollodorus, Bibliotheca 2.5.2",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "jormungandr",
     "name": "Jörmungandr",
     "tradition": "Norse",
-    "type": "Serpent",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
     "glyph": "🐉",
     "aliases": "Miðgarðsormr",
-    "description": "The enormous world-encircling serpent associated with Thor and Ragnarök, and counted among Loki’s children.",
-    "sources": "Poetic Edda: Hymiskviða; Prose Edda: Gylfaginning"
+    "description": "The enormous world serpent surrounds Midgard and confronts Thor in Ragnarök traditions.",
+    "sources": "Poetic Edda, Hymiskviða; Prose Edda, Gylfaginning",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "kappa",
     "name": "Kappa",
     "tradition": "Japanese",
-    "type": "Water spirit",
+    "category": "Spirits & yōkai",
+    "type": "Spirits & yōkai",
     "glyph": "🐢",
     "aliases": "Kawatarō",
-    "description": "A water-dwelling figure often portrayed with a dish-shaped hollow on its head; local accounts portray it as mischievous, dangerous, or occasionally helpful.",
-    "sources": "Japanese regional folklore"
+    "description": "A water-dwelling being with a head-dish, depicted as dangerous, playful, or helpful.",
+    "sources": "Japanese regional folklore",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "apep",
     "name": "Apep",
     "tradition": "Egyptian",
-    "type": "Serpent",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
     "glyph": "🐍",
     "aliases": "Apophis",
-    "description": "A serpent associated with disorder who opposes the sun god during the nightly journey of the solar bark.",
-    "sources": "Egyptian funerary and solar texts"
+    "description": "A chaos serpent opposes the sun god during the nightly solar journey.",
+    "sources": "Egyptian solar and funerary texts",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "fenghuang",
     "name": "Fenghuang",
     "tradition": "Chinese",
-    "type": "Bird",
+    "category": "Auspicious beings",
+    "type": "Auspicious beings",
     "glyph": "🦚",
-    "aliases": "Chinese phoenix (approx.)",
-    "description": "An auspicious mythical bird associated with harmony, virtue, and legitimate rule, not identical to the reborn phoenix of Greek traditions.",
-    "sources": "Classical Chinese texts and art"
+    "aliases": "Chinese phoenix (approximate)",
+    "description": "An auspicious bird associated with harmony and virtue, distinct from the Greek phoenix.",
+    "sources": "Classical Chinese literature and art",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "minotaur",
     "name": "Minotaur",
     "tradition": "Greek",
-    "type": "Hybrid",
+    "category": "Hybrids",
+    "type": "Hybrids",
     "glyph": "🐂",
-    "aliases": "Asterion (in some accounts)",
-    "description": "A bull-headed figure confined in the Cretan labyrinth and defeated by Theseus.",
-    "sources": "Apollodorus: Bibliotheca 3.1.4; Epitome 1"
+    "aliases": "Asterion (some accounts)",
+    "description": "A bull-headed figure confined in the Cretan labyrinth is defeated by Theseus.",
+    "sources": "Apollodorus, Bibliotheca; Epitome",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "chimera",
     "name": "Chimera",
     "tradition": "Greek",
-    "type": "Hybrid",
+    "category": "Hybrids",
+    "type": "Hybrids",
     "glyph": "🦁",
     "aliases": "Chimaira",
-    "description": "A fire-breathing composite monster with lion, goat, and serpent features, slain by Bellerophon.",
-    "sources": "Homer: Iliad 6; Hesiod: Theogony"
+    "description": "A fire-breathing composite creature with lion, goat, and serpent features is slain by Bellerophon.",
+    "sources": "Homer, Iliad 6; Hesiod, Theogony",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "pegasus",
     "name": "Pegasus",
     "tradition": "Greek",
-    "type": "Winged horse",
+    "category": "Wolves & beasts",
+    "type": "Wolves & beasts",
     "glyph": "🪽",
     "aliases": "Pegasos",
-    "description": "The winged horse connected with Medusa and the hero Bellerophon in Greek traditions.",
-    "sources": "Hesiod: Theogony; Pindar: Olympian 13"
+    "description": "A winged horse associated with Medusa and the hero Bellerophon.",
+    "sources": "Hesiod, Theogony; Pindar, Olympian 13",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "sleipnir",
     "name": "Sleipnir",
     "tradition": "Norse",
-    "type": "Horse",
+    "category": "Wolves & beasts",
+    "type": "Wolves & beasts",
     "glyph": "🐎",
     "aliases": "Eight-legged horse",
-    "description": "Odin’s extraordinary eight-legged horse, described in the Prose Edda as the offspring of Loki and Svaðilfari.",
-    "sources": "Prose Edda: Gylfaginning"
+    "description": "Odin rides an extraordinary eight-legged horse whose parentage is recounted in the Prose Edda.",
+    "sources": "Prose Edda, Gylfaginning",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "nidhoggr",
     "name": "Níðhöggr",
     "tradition": "Norse",
-    "type": "Dragon",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
     "glyph": "🐉",
     "aliases": "Nidhogg",
-    "description": "A dragon or serpent associated with the roots of Yggdrasil and the imagery of the dead in Old Norse poetry.",
-    "sources": "Poetic Edda: Grímnismál; Völuspá"
+    "description": "A serpent or dragon associated with Yggdrasil's roots and images of the dead.",
+    "sources": "Poetic Edda, Grímnismál; Völuspá",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "bennu",
     "name": "Bennu",
     "tradition": "Egyptian",
-    "type": "Sacred bird",
+    "category": "Sacred birds",
+    "type": "Sacred birds",
     "glyph": "🪶",
     "aliases": "Benu",
-    "description": "A sacred bird associated with solar renewal and creation, linked in later comparisons to the Greek phoenix.",
-    "sources": "Egyptian religious texts and iconography"
+    "description": "A sacred bird connected to creation and solar renewal, later compared with the phoenix.",
+    "sources": "Egyptian religious texts and iconography",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "sphinx",
     "name": "Sphinx",
     "tradition": "Egyptian",
-    "type": "Composite",
+    "category": "Guardians",
+    "type": "Guardians",
     "glyph": "🦁",
     "aliases": "Human-headed lion",
-    "description": "A composite guardian figure, often represented as a lion with a human head; Egyptian and Greek sphinx traditions differ.",
-    "sources": "Egyptian royal iconography"
+    "description": "An Egyptian royal guardian figure often combining a human head and lion body; distinct from Greek versions.",
+    "sources": "Egyptian royal iconography",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "tengu",
     "name": "Tengu",
     "tradition": "Japanese",
-    "type": "Mountain spirit",
+    "category": "Spirits & yōkai",
+    "type": "Spirits & yōkai",
     "glyph": "🪶",
-    "aliases": "Tengu",
-    "description": "A varied class of supernatural beings connected with mountains, ascetics, and martial legends; portrayals range from birdlike to long-nosed.",
-    "sources": "Medieval Japanese setsuwa and folklore"
+    "aliases": "Mountain tengu",
+    "description": "Mountain-associated beings whose depictions range from birdlike to long-nosed.",
+    "sources": "Medieval Japanese setsuwa; folklore",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "oni",
     "name": "Oni",
     "tradition": "Japanese",
-    "type": "Ogre",
+    "category": "Spirits & yōkai",
+    "type": "Spirits & yōkai",
     "glyph": "👹",
     "aliases": "Oni",
-    "description": "Powerful supernatural beings whose depictions and moral roles vary across Buddhist, literary, and folk traditions.",
-    "sources": "Japanese Buddhist literature and folklore"
+    "description": "Powerful supernatural beings with varying roles in Buddhist and folk narratives.",
+    "sources": "Japanese Buddhist literature; folklore",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "yuki-onna",
     "name": "Yuki-onna",
     "tradition": "Japanese",
-    "type": "Snow spirit",
+    "category": "Spirits & yōkai",
+    "type": "Spirits & yōkai",
     "glyph": "❄️",
     "aliases": "Snow woman",
-    "description": "A female snow-associated supernatural figure appearing in varied regional Japanese stories.",
-    "sources": "Regional Japanese folklore; later literary retellings"
+    "description": "A supernatural woman associated with snow and winter, told differently across regions.",
+    "sources": "Regional Japanese folklore",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "long",
     "name": "Long",
     "tradition": "Chinese",
-    "type": "Dragon",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
     "glyph": "🐲",
     "aliases": "Lóng",
-    "description": "Chinese dragons are diverse powerful beings associated with water, weather, and auspicious authority; forms vary by era and tradition.",
-    "sources": "Chinese classical literature and iconography"
+    "description": "Chinese dragons are diverse beings associated with weather, water, and authority.",
+    "sources": "Classical Chinese literature and iconography",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "bai-ze",
     "name": "Bai Ze",
     "tradition": "Chinese",
-    "type": "Wise beast",
+    "category": "Auspicious beings",
+    "type": "Auspicious beings",
     "glyph": "📜",
     "aliases": "Baize",
-    "description": "A legendary knowledgeable beast associated with accounts of spirits and supernatural beings.",
-    "sources": "Chinese legendary literature"
+    "description": "A knowledgeable legendary beast associated with catalogues of supernatural beings.",
+    "sources": "Chinese legendary literature",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "taotie",
     "name": "Taotie",
     "tradition": "Chinese",
-    "type": "Motif / beast",
+    "category": "Hybrids",
+    "type": "Hybrids",
     "glyph": "🦬",
-    "aliases": "Taotie",
-    "description": "A name associated with a striking face motif on ritual bronzes and later literary interpretations; its status as a distinct creature is debated.",
-    "sources": "Bronze art history; later Chinese texts"
+    "aliases": "Taotie motif",
+    "description": "A ritual-bronze face motif later interpreted in literature; its identity as a creature is debated.",
+    "sources": "Chinese bronze art history; later literary accounts",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "ratatoskr",
     "name": "Ratatoskr",
     "tradition": "Norse",
-    "type": "Squirrel",
+    "category": "Wolves & beasts",
+    "type": "Wolves & beasts",
     "glyph": "🐿️",
     "aliases": "Ratatosk",
-    "description": "A squirrel who travels up and down Yggdrasil, carrying words between the eagle above and Níðhöggr below.",
-    "sources": "Poetic Edda: Grímnismál; Prose Edda: Gylfaginning"
+    "description": "A squirrel travels along Yggdrasil carrying words between creatures above and below.",
+    "sources": "Poetic Edda, Grímnismál; Prose Edda, Gylfaginning",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   },
   {
     "id": "fafnir",
     "name": "Fáfnir",
     "tradition": "Norse",
-    "type": "Dragon",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
     "glyph": "🐉",
     "aliases": "Fafnir",
-    "description": "A figure who becomes a dragon guarding treasure and is slain by Sigurðr in the heroic cycle.",
-    "sources": "Völsunga saga; Fáfnismál"
+    "description": "A treasure-guarding dragon slain by Sigurðr in the heroic cycle.",
+    "sources": "Völsunga saga; Fáfnismál",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "gorgon",
+    "name": "Gorgons",
+    "tradition": "Greek",
+    "category": "Hybrids",
+    "type": "Hybrids",
+    "glyph": "🐍",
+    "aliases": "Gorgones",
+    "description": "A group of fearsome female beings; Medusa is the best-known member, with snakes prominent in later portrayals.",
+    "sources": "Hesiod, Theogony; Ovid, Metamorphoses",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "harpy",
+    "name": "Harpies",
+    "tradition": "Greek",
+    "category": "Hybrids",
+    "type": "Hybrids",
+    "glyph": "🪽",
+    "aliases": "Harpyiai",
+    "description": "Winged female figures associated with sudden seizure and storm winds in Greek myth.",
+    "sources": "Hesiod, Theogony; Apollonius, Argonautica",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "siren",
+    "name": "Sirens",
+    "tradition": "Greek",
+    "category": "Hybrids",
+    "type": "Hybrids",
+    "glyph": "🎶",
+    "aliases": "Seirēnes",
+    "description": "Dangerous singers lure sailors; early Greek art commonly depicts bird-woman forms.",
+    "sources": "Homer, Odyssey 12; Greek vase painting",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "scylla",
+    "name": "Scylla",
+    "tradition": "Greek",
+    "category": "Sea beings",
+    "type": "Sea beings",
+    "glyph": "🌊",
+    "aliases": "Skylla",
+    "description": "A dangerous sea monster threatens sailors navigating a narrow passage.",
+    "sources": "Homer, Odyssey 12",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "charybdis",
+    "name": "Charybdis",
+    "tradition": "Greek",
+    "category": "Sea beings",
+    "type": "Sea beings",
+    "glyph": "🌀",
+    "aliases": "Kharybdis",
+    "description": "A destructive whirlpool-like sea being appears opposite Scylla in the Odyssey.",
+    "sources": "Homer, Odyssey 12",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "draugr",
+    "name": "Draugr",
+    "tradition": "Norse",
+    "category": "Undead & revenants",
+    "type": "Undead & revenants",
+    "glyph": "⚰️",
+    "aliases": "Draug",
+    "description": "A corporeal revenant appearing in Icelandic saga traditions, often tied to burial mounds.",
+    "sources": "Grettis saga; Eyrbyggja saga",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "hugin-munin",
+    "name": "Huginn and Muninn",
+    "tradition": "Norse",
+    "category": "Sacred birds",
+    "type": "Sacred birds",
+    "glyph": "🐦",
+    "aliases": "Thought and Memory",
+    "description": "Two ravens associated with Odin who range through the world and return with news.",
+    "sources": "Poetic Edda, Grímnismál; Prose Edda",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "garmr",
+    "name": "Garmr",
+    "tradition": "Norse",
+    "category": "Guardians",
+    "type": "Guardians",
+    "glyph": "🐕",
+    "aliases": "Garm",
+    "description": "A hound associated with Gnipahellir and the events of Ragnarök.",
+    "sources": "Poetic Edda, Völuspá",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "hresvelgr",
+    "name": "Hræsvelgr",
+    "tradition": "Norse",
+    "category": "Hybrids",
+    "type": "Hybrids",
+    "glyph": "🦅",
+    "aliases": "Corpse-swallower",
+    "description": "A giant in eagle form whose wingbeats are linked to the wind.",
+    "sources": "Poetic Edda, Vafþrúðnismál",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "serpopard",
+    "name": "Serpopard",
+    "tradition": "Egyptian",
+    "category": "Hybrids",
+    "type": "Hybrids",
+    "glyph": "🐆",
+    "aliases": "Long-necked feline motif",
+    "description": "A modern name for a long-necked feline-like motif on early Egyptian objects; mythic identity is uncertain.",
+    "sources": "Narmer Palette; early dynastic iconography",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "wadjet-cobra",
+    "name": "Wadjet Cobra",
+    "tradition": "Egyptian",
+    "category": "Guardians",
+    "type": "Guardians",
+    "glyph": "🐍",
+    "aliases": "Uraeus",
+    "description": "The rearing cobra is a protective royal emblem associated with the goddess Wadjet; catalogued here as a creature motif.",
+    "sources": "Egyptian royal iconography",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "ba-bird",
+    "name": "Ba Bird",
+    "tradition": "Egyptian",
+    "category": "Sacred birds",
+    "type": "Sacred birds",
+    "glyph": "🕊️",
+    "aliases": "Ba",
+    "description": "A human-headed bird can depict an aspect of personhood in funerary imagery; not a single named monster.",
+    "sources": "Egyptian funerary iconography; Book of the Dead",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "griffin-egypt",
+    "name": "Griffin (Egyptian motif)",
+    "tradition": "Egyptian",
+    "category": "Hybrids",
+    "type": "Hybrids",
+    "glyph": "🦅",
+    "aliases": "Lion-eagle composite",
+    "description": "Composite lion-and-bird imagery occurs in Egyptian art; exact meanings vary by period.",
+    "sources": "Ancient Egyptian iconography",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "mehen",
+    "name": "Mehen",
+    "tradition": "Egyptian",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "Coiled serpent",
+    "description": "A protective coiled serpent surrounds the solar deity in Egyptian underworld imagery.",
+    "sources": "Amduat; Egyptian funerary texts",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "tanuki",
+    "name": "Bake-danuki",
+    "tradition": "Japanese",
+    "category": "Spirits & yōkai",
+    "type": "Spirits & yōkai",
+    "glyph": "🦝",
+    "aliases": "Tanuki",
+    "description": "A shape-changing raccoon dog of Japanese folktales, frequently mischievous or humorous.",
+    "sources": "Japanese folktales; Edo-period storytelling",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "nue",
+    "name": "Nue",
+    "tradition": "Japanese",
+    "category": "Hybrids",
+    "type": "Hybrids",
+    "glyph": "🐒",
+    "aliases": "Nue",
+    "description": "A composite creature associated with an ominous night cry in medieval Japanese legend.",
+    "sources": "Heike monogatari",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "jorogumo",
+    "name": "Jorōgumo",
+    "tradition": "Japanese",
+    "category": "Spirits & yōkai",
+    "type": "Spirits & yōkai",
+    "glyph": "🕷️",
+    "aliases": "Spider woman",
+    "description": "A spider yōkai associated with transformation and entrapment in later folklore.",
+    "sources": "Japanese Edo-period folklore collections",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "rokurokubi",
+    "name": "Rokurokubi",
+    "tradition": "Japanese",
+    "category": "Spirits & yōkai",
+    "type": "Spirits & yōkai",
+    "glyph": "👤",
+    "aliases": "Long-necked yōkai",
+    "description": "A supernatural figure known for an extending neck; related stories sometimes describe detachable heads.",
+    "sources": "Japanese folklore; kaidan collections",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "baku",
+    "name": "Baku",
+    "tradition": "Japanese",
+    "category": "Auspicious beings",
+    "type": "Auspicious beings",
+    "glyph": "🐘",
+    "aliases": "Dream eater",
+    "description": "A dream-eating supernatural creature whose forms and associations developed through Chinese and Japanese traditions.",
+    "sources": "Japanese folklore; early modern illustrations",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "xiezhi",
+    "name": "Xiezhi",
+    "tradition": "Chinese",
+    "category": "Auspicious beings",
+    "type": "Auspicious beings",
+    "glyph": "🦄",
+    "aliases": "Haetae (related tradition)",
+    "description": "A legendary horned beast linked with justice and the detection of wrongdoing.",
+    "sources": "Chinese classical and later literature",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "kunpeng",
+    "name": "Kun and Peng",
+    "tradition": "Chinese",
+    "category": "Sea beings",
+    "type": "Sea beings",
+    "glyph": "🐋",
+    "aliases": "Kūn, Péng",
+    "description": "A vast fish transforms into an immense bird in a famous philosophical tale.",
+    "sources": "Zhuangzi, Free and Easy Wandering",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "nine-tailed-fox",
+    "name": "Nine-tailed Fox",
+    "tradition": "Chinese",
+    "category": "Spirits & yōkai",
+    "type": "Spirits & yōkai",
+    "glyph": "🦊",
+    "aliases": "Jiǔwěihú",
+    "description": "A nine-tailed fox appears in early Chinese accounts; interpretations range from portent to danger.",
+    "sources": "Shanhaijing; later Chinese folklore",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "zhulong",
+    "name": "Zhulong",
+    "tradition": "Chinese",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐉",
+    "aliases": "Torch Dragon",
+    "description": "A cosmic serpent-like being associated with light and darkness in classical descriptions.",
+    "sources": "Shanhaijing",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "pixiu",
+    "name": "Pixiu",
+    "tradition": "Chinese",
+    "category": "Auspicious beings",
+    "type": "Auspicious beings",
+    "glyph": "🦁",
+    "aliases": "Pìxiū",
+    "description": "An auspicious hybrid beast commonly associated with protection and prosperity in later tradition.",
+    "sources": "Chinese art and folklore",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
+  },
+  {
+    "id": "hundun",
+    "name": "Hundun",
+    "tradition": "Chinese",
+    "category": "Hybrids",
+    "type": "Hybrids",
+    "glyph": "☁️",
+    "aliases": "Hundun",
+    "description": "A figure of undifferentiated chaos whose depictions differ between philosophical stories and mythic bestiaries.",
+    "sources": "Zhuangzi; Shanhaijing traditions",
+    "variants": "Accounts and visual depictions differ across periods and retellings; consult the cited source leads before treating a specific feature as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Legendary / tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; no game statistics are asserted as historical facts."
+    }
   }
 ]

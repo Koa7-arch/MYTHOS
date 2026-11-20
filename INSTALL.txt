@@ -1,0 +1,20 @@
+MYTHOS v0.3 — Complete replacement package
+
+GitHub repository: https://github.com/Koa7-arch/MYTHOS
+
+REPLACE these existing files in repository root:
+- index.html
+- creatures.json
+- sw.js
+
+DO NOT CHANGE:
+- icon.svg (your existing black-hole icon)
+- manifest.webmanifest
+- README.md
+
+Upload all three replacements before testing.
+Open MYTHOS online in Safari, then reopen the Home Screen app online.
+Check Settings shows v0.3 and Bestiary shows 50 of 50 entries.
+Verify bookmarks before testing offline. Do not uninstall the app or clear website data.
+
+Research note: historical summaries are preliminary, and source leads have not been passage-verified. Fictional field-guide data is labeled separately.
