@@ -1,0 +1,2510 @@
+[
+  {
+    "id": "greek-typhon",
+    "name": "Typhon",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A vast storm-monster who challenges Zeus and is overcome after a cosmic battle.",
+    "sources": "Hesiod, Theogony 820–868",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-echidna",
+    "name": "Echidna",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A serpent-bodied female monster associated with the ancestry of numerous fearsome beings.",
+    "sources": "Hesiod, Theogony 295–332",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-medusa",
+    "name": "Medusa",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "The mortal Gorgon whose head Perseus takes; her appearance differs between poetry and art.",
+    "sources": "Hesiod, Theogony 270–281; Apollodorus 2.4.2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-stheno",
+    "name": "Stheno",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "One of the immortal Gorgon sisters of Medusa.",
+    "sources": "Hesiod, Theogony 270–276",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-euryale",
+    "name": "Euryale",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "An immortal Gorgon sister whose name also appears in later accounts.",
+    "sources": "Hesiod, Theogony 270–276",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-gorgons",
+    "name": "Gorgons",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "The fearsome sisters commonly described with monstrous features; Medusa alone is mortal in Hesiod.",
+    "sources": "Hesiod, Theogony 270–281",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-graeae",
+    "name": "Graeae",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "Ancient sisters sharing an eye and tooth in well-known accounts.",
+    "sources": "Apollodorus 2.4.2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-deino",
+    "name": "Deino",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "One of the Graeae named in the Perseus tradition.",
+    "sources": "Apollodorus 2.4.2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-enyo-graea",
+    "name": "Enyo (Graea)",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "A Graea, distinct from the war-associated goddess of the same name.",
+    "sources": "Apollodorus 2.4.2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-pemphredo",
+    "name": "Pemphredo",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "A Graea whose shared eye helps Perseus locate the Gorgons.",
+    "sources": "Apollodorus 2.4.2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-greek-sphinx",
+    "name": "Greek Sphinx",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "The riddling monster of Thebes with a lion body and human head, often winged.",
+    "sources": "Apollodorus 3.5.8; Sophocles, Oedipus Tyrannus",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-centaurs",
+    "name": "Centaurs",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "A people represented as part human and part horse, famous in conflict and instruction tales.",
+    "sources": "Ovid, Metamorphoses 12; Pindar, Pythian 2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-chiron",
+    "name": "Chiron",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "A wise centaur and tutor to heroes, often contrasted with more unruly centaurs.",
+    "sources": "Pindar, Pythian 3; Apollodorus 3.13.3",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-nessus",
+    "name": "Nessus",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "A centaur whose deception has tragic consequences for Heracles and Deianeira.",
+    "sources": "Sophocles, Trachiniae; Apollodorus 2.7.6",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-pholus",
+    "name": "Pholus",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "A centaur who hosts Heracles and becomes entangled in a fatal incident involving wine.",
+    "sources": "Apollodorus 2.5.4",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-eurytion-centaur",
+    "name": "Eurytion (Centaur)",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "A centaur associated with violent disruptions of a wedding feast in later traditions.",
+    "sources": "Ovid, Metamorphoses 12",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-hylonome",
+    "name": "Hylonome",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "A female centaur remembered in the battle narrative of the Metamorphoses.",
+    "sources": "Ovid, Metamorphoses 12",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-satyrs",
+    "name": "Satyrs",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "Rustic, animal-featured companions of Dionysus, especially prominent in drama and art.",
+    "sources": "Euripides, Cyclops; Greek vase painting",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-sileni",
+    "name": "Sileni",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "Elderly satyr-like figures associated with Dionysian processions and folklore.",
+    "sources": "Greek vase painting; Euripides, Cyclops",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-panisci",
+    "name": "Panisci",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "Small Pan-like rustic beings depicted in later Greco-Roman art and literature.",
+    "sources": "Greco-Roman iconography; later descriptions",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-harpies",
+    "name": "Harpies",
+    "tradition": "Greek",
+    "category": "Winged beings",
+    "type": "Winged beings",
+    "glyph": "🪽",
+    "aliases": "",
+    "description": "Winged beings who torment Phineus and are pursued by the Boreads.",
+    "sources": "Apollonius Rhodius, Argonautica 2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-aello",
+    "name": "Aello",
+    "tradition": "Greek",
+    "category": "Winged beings",
+    "type": "Winged beings",
+    "glyph": "🪽",
+    "aliases": "",
+    "description": "A named Harpy in accounts of the winged sisters.",
+    "sources": "Hesiod, Theogony 265–269",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-ocypete",
+    "name": "Ocypete",
+    "tradition": "Greek",
+    "category": "Winged beings",
+    "type": "Winged beings",
+    "glyph": "🪽",
+    "aliases": "",
+    "description": "A named Harpy associated with swift flight.",
+    "sources": "Hesiod, Theogony 265–269",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-celaeno-harpy",
+    "name": "Celaeno (Harpy)",
+    "tradition": "Greek",
+    "category": "Winged beings",
+    "type": "Winged beings",
+    "glyph": "🪽",
+    "aliases": "",
+    "description": "A Harpy named in later epic tradition.",
+    "sources": "Virgil, Aeneid 3",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-sirens",
+    "name": "Sirens",
+    "tradition": "Greek",
+    "category": "Winged beings",
+    "type": "Winged beings",
+    "glyph": "🪽",
+    "aliases": "",
+    "description": "Singing beings whose song threatens Odysseus; early Greek art frequently gives them bird bodies.",
+    "sources": "Homer, Odyssey 12; Greek vase painting",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-stymphalian-birds",
+    "name": "Stymphalian Birds",
+    "tradition": "Greek",
+    "category": "Winged beings",
+    "type": "Winged beings",
+    "glyph": "🪽",
+    "aliases": "",
+    "description": "Dangerous birds driven from the Stymphalian marsh by Heracles.",
+    "sources": "Apollodorus 2.5.6",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-birds-of-ares",
+    "name": "Birds of Ares",
+    "tradition": "Greek",
+    "category": "Winged beings",
+    "type": "Winged beings",
+    "glyph": "🪽",
+    "aliases": "",
+    "description": "Hostile birds associated with the island shrine of Ares encountered by the Argonauts.",
+    "sources": "Apollonius Rhodius, Argonautica 2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-caucasian-eagle",
+    "name": "Caucasian Eagle",
+    "tradition": "Greek",
+    "category": "Winged beings",
+    "type": "Winged beings",
+    "glyph": "🪽",
+    "aliases": "",
+    "description": "A bird that repeatedly torments Prometheus in punishment narratives.",
+    "sources": "Apollodorus 2.5.11; Aeschylus, Prometheus Bound",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-griffins",
+    "name": "Griffins",
+    "tradition": "Greek",
+    "category": "Winged beings",
+    "type": "Winged beings",
+    "glyph": "🪽",
+    "aliases": "",
+    "description": "Eagle-lion hybrids associated with remote lands and gold in ancient reports.",
+    "sources": "Herodotus 3.116; Aeschylus, Prometheus Bound",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-phoenix",
+    "name": "Phoenix",
+    "tradition": "Greek",
+    "category": "Winged beings",
+    "type": "Winged beings",
+    "glyph": "🪽",
+    "aliases": "",
+    "description": "A rare bird associated with an extraordinary life cycle in Greek accounts of Egypt.",
+    "sources": "Herodotus 2.73",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-hippalectryon",
+    "name": "Hippalectryon",
+    "tradition": "Greek",
+    "category": "Gorgons & hybrids",
+    "type": "Gorgons & hybrids",
+    "glyph": "🐉",
+    "aliases": "",
+    "description": "A rooster-horse hybrid familiar from ancient Greek art.",
+    "sources": "Aristophanes, Frogs; Greek vase painting",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-hippocamps",
+    "name": "Hippocamps",
+    "tradition": "Greek",
+    "category": "Sea creatures",
+    "type": "Sea creatures",
+    "glyph": "🌊",
+    "aliases": "",
+    "description": "Horse-fronted fish-tailed creatures that appear in marine processions.",
+    "sources": "Greek and Roman marine iconography",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-tritons",
+    "name": "Tritons",
+    "tradition": "Greek",
+    "category": "Sea creatures",
+    "type": "Sea creatures",
+    "glyph": "🌊",
+    "aliases": "",
+    "description": "Fish-tailed marine beings represented in myth and art.",
+    "sources": "Pausanias, Description of Greece 9.20.4",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-telchines",
+    "name": "Telchines",
+    "tradition": "Greek",
+    "category": "Sea creatures",
+    "type": "Sea creatures",
+    "glyph": "🌊",
+    "aliases": "",
+    "description": "Rhodes-associated supernatural craftsmen described in varying monstrous or magical forms.",
+    "sources": "Diodorus Siculus 5.55; Strabo 14.2.7",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-scylla",
+    "name": "Scylla",
+    "tradition": "Greek",
+    "category": "Sea creatures",
+    "type": "Sea creatures",
+    "glyph": "🌊",
+    "aliases": "",
+    "description": "A deadly creature on a sea passage who seizes sailors from passing ships.",
+    "sources": "Homer, Odyssey 12",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-charybdis",
+    "name": "Charybdis",
+    "tradition": "Greek",
+    "category": "Sea creatures",
+    "type": "Sea creatures",
+    "glyph": "🌊",
+    "aliases": "",
+    "description": "A deadly sea being whose repeated swallowing of water threatens ships.",
+    "sources": "Homer, Odyssey 12",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-ethiopian-cetus",
+    "name": "Ethiopian Cetus",
+    "tradition": "Greek",
+    "category": "Sea creatures",
+    "type": "Sea creatures",
+    "glyph": "🌊",
+    "aliases": "",
+    "description": "The sea monster threatening Andromeda before Perseus intervenes.",
+    "sources": "Apollodorus 2.4.3",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-trojan-cetus",
+    "name": "Trojan Cetus",
+    "tradition": "Greek",
+    "category": "Sea creatures",
+    "type": "Sea creatures",
+    "glyph": "🌊",
+    "aliases": "",
+    "description": "A sea monster linked with the rescue of Hesione by Heracles.",
+    "sources": "Apollodorus 2.5.9",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-cetea",
+    "name": "Cetea",
+    "tradition": "Greek",
+    "category": "Sea creatures",
+    "type": "Sea creatures",
+    "glyph": "🌊",
+    "aliases": "",
+    "description": "A general term for large sea monsters appearing in Greek myth and accounts.",
+    "sources": "Greek literary usage; Theoi Bestiary",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-scolopendra",
+    "name": "Scolopendra",
+    "tradition": "Greek",
+    "category": "Sea creatures",
+    "type": "Sea creatures",
+    "glyph": "🌊",
+    "aliases": "",
+    "description": "A many-legged marine monster described in ancient zoological marvel literature.",
+    "sources": "Aelian, On the Nature of Animals",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-delphin",
+    "name": "Delphin",
+    "tradition": "Greek",
+    "category": "Sea creatures",
+    "type": "Sea creatures",
+    "glyph": "🌊",
+    "aliases": "",
+    "description": "A remarkable dolphin associated with Poseidon and the sea's divine entourage.",
+    "sources": "Hyginus, Astronomica 2.17",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-ismenian-dragon",
+    "name": "Ismenian Dragon",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "The serpent of Ares slain by Cadmus before the sowing of its teeth.",
+    "sources": "Apollodorus 3.4.1",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-colchian-dragon",
+    "name": "Colchian Dragon",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "The sleepless guardian of the Golden Fleece encountered by Jason and Medea.",
+    "sources": "Apollonius Rhodius, Argonautica 4",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-ladon",
+    "name": "Ladon",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "The serpent guarding the golden apples of the Hesperides.",
+    "sources": "Hesiod, Theogony 333–335; Apollodorus 2.5.11",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-python",
+    "name": "Python",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "A great serpent associated with Delphi and defeated by Apollo.",
+    "sources": "Homeric Hymn to Apollo",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-lydian-dragon",
+    "name": "Lydian Dragon",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "A serpent slain by Damasen in a later Greek epic account.",
+    "sources": "Nonnus, Dionysiaca 25",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-thespian-dragon",
+    "name": "Thespian Dragon",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "A dragon linked to the countryside around Thespiae in local lore.",
+    "sources": "Pausanias, Description of Greece 9",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-medea-s-dragons",
+    "name": "Medea's Dragons",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "Winged serpents associated with Medea's chariot in later representations.",
+    "sources": "Euripides, Medea 1317–1322",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-trojan-sea-serpents",
+    "name": "Trojan Sea Serpents",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "Two serpents that attack Laocoön and his sons in the Trojan cycle.",
+    "sources": "Virgil, Aeneid 2; later Trojan tradition",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-amphisbaena",
+    "name": "Amphisbaena",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "A two-headed serpent reported among the marvelous animals of Africa.",
+    "sources": "Aelian, On the Nature of Animals; Pliny, Natural History",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-basilisk",
+    "name": "Basilisk",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "A small deadly serpent described in Greek and Roman natural-history traditions.",
+    "sources": "Nicander, Theriaca; Pliny, Natural History",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-ethiopian-dragons",
+    "name": "Ethiopian Dragons",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "Enormous serpents attributed to Ethiopia in ancient marvel accounts.",
+    "sources": "Aelian, On the Nature of Animals",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-indian-dragons",
+    "name": "Indian Dragons",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "Huge serpents said to contest elephants in Greek accounts of India.",
+    "sources": "Aelian, On the Nature of Animals",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-winged-serpents-of-arabia",
+    "name": "Winged Serpents of Arabia",
+    "tradition": "Greek",
+    "category": "Serpents & dragons",
+    "type": "Serpents & dragons",
+    "glyph": "🐍",
+    "aliases": "",
+    "description": "Flying snakes reported as guarding incense-producing regions.",
+    "sources": "Herodotus 3.107–109",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-orthrus",
+    "name": "Orthrus",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A multi-headed hound guarding the cattle of Geryon.",
+    "sources": "Hesiod, Theogony 309–312",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-nemean-lion",
+    "name": "Nemean Lion",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A formidable lion overcome by Heracles in his first labor.",
+    "sources": "Apollodorus 2.5.1",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-cretan-bull",
+    "name": "Cretan Bull",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A remarkable bull captured by Heracles and later associated with Theseus.",
+    "sources": "Apollodorus 2.5.7",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-marathonian-bull",
+    "name": "Marathonian Bull",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "The dangerous bull subdued by Theseus near Marathon, often linked with the Cretan bull.",
+    "sources": "Plutarch, Theseus 14",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-ceryneian-hind",
+    "name": "Ceryneian Hind",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A swift sacred hind pursued by Heracles during his labors.",
+    "sources": "Apollodorus 2.5.3",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-erymanthian-boar",
+    "name": "Erymanthian Boar",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "The huge boar captured alive by Heracles.",
+    "sources": "Apollodorus 2.5.4",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-calydonian-boar",
+    "name": "Calydonian Boar",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A monstrous boar hunted by Meleager and other heroes.",
+    "sources": "Apollodorus 1.8.2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-crommyonian-sow",
+    "name": "Crommyonian Sow",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A dangerous sow defeated by Theseus on the road to Athens.",
+    "sources": "Plutarch, Theseus 9",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-clazomenian-boar",
+    "name": "Clazomenian Boar",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "An extraordinary winged boar reported in ancient marvel traditions.",
+    "sources": "Aelian, On the Nature of Animals",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-karkinos",
+    "name": "Karkinos",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A crab associated with the Hydra's battle against Heracles.",
+    "sources": "Pseudo-Hyginus, Astronomica 2.23",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-teumessian-fox",
+    "name": "Teumessian Fox",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "An uncatchable fox set against the equally extraordinary hound Laelaps.",
+    "sources": "Apollodorus 2.4.6",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-laelaps",
+    "name": "Laelaps",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A hound destined always to catch its prey, paired with the Teumessian Fox.",
+    "sources": "Apollodorus 2.4.6",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-arion",
+    "name": "Arion",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "An exceptional horse associated with Adrastus and other heroes.",
+    "sources": "Pausanias, Description of Greece 8.25.5",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-balius",
+    "name": "Balius",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "One of Achilles' extraordinary horses, paired with Xanthus.",
+    "sources": "Homer, Iliad 16; 19",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-xanthus-horse",
+    "name": "Xanthus (Horse)",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "Achilles' horse who speaks prophetically in the Iliad.",
+    "sources": "Homer, Iliad 19",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-horses-of-diomedes",
+    "name": "Horses of Diomedes",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "Flesh-eating mares captured by Heracles.",
+    "sources": "Apollodorus 2.5.8",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-golden-ram",
+    "name": "Golden Ram",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "The flying, golden-fleeced ram that carries Phrixus toward Colchis.",
+    "sources": "Apollodorus 1.9.1",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-golden-horned-deer",
+    "name": "Golden-Horned Deer",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A group of wondrous deer associated with Artemis.",
+    "sources": "Callimachus, Hymn to Artemis",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-eagle-of-zeus",
+    "name": "Eagle of Zeus",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "The divine eagle associated with Zeus in myth and iconography.",
+    "sources": "Greek myth and iconography",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-giant-scorpion",
+    "name": "Giant Scorpion",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A great scorpion associated with Orion's death and the constellation Scorpio.",
+    "sources": "Aratus, Phaenomena; later star myths",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-cercopes",
+    "name": "Cercopes",
+    "tradition": "Greek",
+    "category": "Monstrous peoples",
+    "type": "Monstrous peoples",
+    "glyph": "👁️",
+    "aliases": "",
+    "description": "Mischievous tricksters whose forms and later transformations vary.",
+    "sources": "Diodorus Siculus 4.31",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-cyclopes-elder",
+    "name": "Cyclopes (Elder)",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "Three primordial one-eyed beings who forge Zeus's thunderbolt.",
+    "sources": "Hesiod, Theogony 139–146; 501–506",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-cyclopes-younger",
+    "name": "Cyclopes (Younger)",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A lawless, one-eyed people encountered by Odysseus.",
+    "sources": "Homer, Odyssey 9",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-polyphemus",
+    "name": "Polyphemus",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "The Cyclops blinded by Odysseus during the journey home.",
+    "sources": "Homer, Odyssey 9",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-hecatoncheires",
+    "name": "Hecatoncheires",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "Three hundred-handed beings who aid Zeus against the Titans.",
+    "sources": "Hesiod, Theogony 147–153; 617–735",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-briareus",
+    "name": "Briareus",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "One of the hundred-handed beings, also called Aegaeon in some contexts.",
+    "sources": "Hesiod, Theogony 147–153; Homer, Iliad 1",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-cottus",
+    "name": "Cottus",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "One of the three hundred-handed brothers.",
+    "sources": "Hesiod, Theogony 147–153",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-gyges",
+    "name": "Gyges",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "One of the hundred-handed brothers, also rendered Gyes.",
+    "sources": "Hesiod, Theogony 147–153",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-gigantes",
+    "name": "Gigantes",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "Earth-born giants who battle the Olympians in the Gigantomachy.",
+    "sources": "Apollodorus 1.6.1; Greek art",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-alcyoneus",
+    "name": "Alcyoneus",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A prominent giant whose defeat involves Heracles.",
+    "sources": "Apollodorus 1.6.1",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-porphyrion",
+    "name": "Porphyrion",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A leader of the giants in the war against the gods.",
+    "sources": "Apollodorus 1.6.2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-enceladus",
+    "name": "Enceladus",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A giant overcome by Athena in the Gigantomachy.",
+    "sources": "Apollodorus 1.6.2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-polybotes",
+    "name": "Polybotes",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A giant defeated by Poseidon in the Gigantomachy.",
+    "sources": "Apollodorus 1.6.2",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-antaeus",
+    "name": "Antaeus",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A formidable wrestler defeated by Heracles.",
+    "sources": "Apollodorus 2.5.11",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-aloadae",
+    "name": "Aloadae",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "The gigantic brothers Otus and Ephialtes who threaten Olympus.",
+    "sources": "Homer, Odyssey 11; Apollodorus 1.7.4",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-otus",
+    "name": "Otus",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "One of the Aloadae brothers.",
+    "sources": "Homer, Odyssey 11",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-ephialtes-aload",
+    "name": "Ephialtes (Aload)",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "One of the Aloadae, distinct from the giant of similar name in some lists.",
+    "sources": "Homer, Odyssey 11",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-argus-panoptes",
+    "name": "Argus Panoptes",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "The many-eyed guardian set to watch Io.",
+    "sources": "Apollodorus 2.1.3; Ovid, Metamorphoses 1",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-geryon",
+    "name": "Geryon",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A three-bodied figure whose cattle Heracles takes.",
+    "sources": "Hesiod, Theogony 287–294; Apollodorus 2.5.10",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-gegenees",
+    "name": "Gegenees",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "Six-armed giants fought by the Argonauts.",
+    "sources": "Apollonius Rhodius, Argonautica 1",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-laestrygonians",
+    "name": "Laestrygonians",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A people of enormous cannibals who destroy much of Odysseus' fleet.",
+    "sources": "Homer, Odyssey 10",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-antiphates",
+    "name": "Antiphates",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "The Laestrygonian king who attacks Odysseus' men.",
+    "sources": "Homer, Odyssey 10",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-tityus",
+    "name": "Tityus",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A giant punished in the underworld.",
+    "sources": "Homer, Odyssey 11; Apollodorus 1.4.1",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-echidnades",
+    "name": "Echidnades",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "A serpent-legged giant associated with the monster Echidna in later tradition.",
+    "sources": "Nonnus, Dionysiaca",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-agrius-and-oreus",
+    "name": "Agrius and Oreus",
+    "tradition": "Greek",
+    "category": "Giants & monsters",
+    "type": "Giants & monsters",
+    "glyph": "🗿",
+    "aliases": "",
+    "description": "Two bear-like giant brothers in a later mythic account.",
+    "sources": "Antoninus Liberalis, Metamorphoses 21",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-pygmies",
+    "name": "Pygmies",
+    "tradition": "Greek",
+    "category": "Monstrous peoples",
+    "type": "Monstrous peoples",
+    "glyph": "👁️",
+    "aliases": "",
+    "description": "A diminutive people associated with annual conflict against cranes.",
+    "sources": "Homer, Iliad 3.3–7",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-cynocephali",
+    "name": "Cynocephali",
+    "tradition": "Greek",
+    "category": "Monstrous peoples",
+    "type": "Monstrous peoples",
+    "glyph": "👁️",
+    "aliases": "",
+    "description": "Dog-headed peoples described in ancient geographical marvel accounts.",
+    "sources": "Ctesias, Indica; later Greek reports",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-sciapods",
+    "name": "Sciapods",
+    "tradition": "Greek",
+    "category": "Monstrous peoples",
+    "type": "Monstrous peoples",
+    "glyph": "👁️",
+    "aliases": "",
+    "description": "People described as having a single large foot used for shade.",
+    "sources": "Ctesias, Indica; later Greek reports",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-arimaspians",
+    "name": "Arimaspians",
+    "tradition": "Greek",
+    "category": "Monstrous peoples",
+    "type": "Monstrous peoples",
+    "glyph": "👁️",
+    "aliases": "",
+    "description": "One-eyed people associated with griffins and distant gold.",
+    "sources": "Herodotus 3.116; 4.13",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-blemmyae",
+    "name": "Blemmyae",
+    "tradition": "Greek",
+    "category": "Monstrous peoples",
+    "type": "Monstrous peoples",
+    "glyph": "👁️",
+    "aliases": "",
+    "description": "Headless peoples described in Greco-Roman geographical traditions.",
+    "sources": "Herodotus 4.191; later authors",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-astomi",
+    "name": "Astomi",
+    "tradition": "Greek",
+    "category": "Monstrous peoples",
+    "type": "Monstrous peoples",
+    "glyph": "👁️",
+    "aliases": "",
+    "description": "Mouthless peoples reported in ancient accounts of distant India.",
+    "sources": "Megasthenes, Indica; later reports",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-panotii",
+    "name": "Panotii",
+    "tradition": "Greek",
+    "category": "Monstrous peoples",
+    "type": "Monstrous peoples",
+    "glyph": "👁️",
+    "aliases": "",
+    "description": "A fabulous people with enormous ears in ancient geographical accounts.",
+    "sources": "Pliny, Natural History; later marvel tradition",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-manticore",
+    "name": "Manticore",
+    "tradition": "Greek",
+    "category": "Marvelous animals",
+    "type": "Marvelous animals",
+    "glyph": "🦄",
+    "aliases": "",
+    "description": "A Persian beast with a humanlike face and dangerous tail in Greek accounts.",
+    "sources": "Ctesias, Indica; later Greek reports",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-catoblepas",
+    "name": "Catoblepas",
+    "tradition": "Greek",
+    "category": "Marvelous animals",
+    "type": "Marvelous animals",
+    "glyph": "🦄",
+    "aliases": "",
+    "description": "A remarkable African beast reputed to possess deadly powers.",
+    "sources": "Aelian, On the Nature of Animals",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-leucrocotta",
+    "name": "Leucrocotta",
+    "tradition": "Greek",
+    "category": "Marvelous animals",
+    "type": "Marvelous animals",
+    "glyph": "🦄",
+    "aliases": "",
+    "description": "An uncanny animal of ancient zoological marvel literature.",
+    "sources": "Pliny, Natural History",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-monoceros",
+    "name": "Monoceros",
+    "tradition": "Greek",
+    "category": "Marvelous animals",
+    "type": "Marvelous animals",
+    "glyph": "🦄",
+    "aliases": "",
+    "description": "A one-horned beast reported in Greek descriptions of India.",
+    "sources": "Ctesias, Indica; later Greek accounts",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-indian-gold-digging-ants",
+    "name": "Indian Gold-Digging Ants",
+    "tradition": "Greek",
+    "category": "Marvelous animals",
+    "type": "Marvelous animals",
+    "glyph": "🦄",
+    "aliases": "",
+    "description": "Unusually large ants reputed to dig up gold in distant lands.",
+    "sources": "Herodotus 3.102–105",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-indian-river-worm",
+    "name": "Indian River Worm",
+    "tradition": "Greek",
+    "category": "Marvelous animals",
+    "type": "Marvelous animals",
+    "glyph": "🦄",
+    "aliases": "",
+    "description": "An enormous worm described in reports of the Indus.",
+    "sources": "Ctesias, Indica; later Greek reports",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-ethiopian-pegasus",
+    "name": "Ethiopian Pegasus",
+    "tradition": "Greek",
+    "category": "Marvelous animals",
+    "type": "Marvelous animals",
+    "glyph": "🦄",
+    "aliases": "",
+    "description": "A winged, horned horse attributed to Ethiopia in marvelous-animal catalogues.",
+    "sources": "Ancient Greco-Roman marvel literature",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient geographical or marvel account"
+  },
+  {
+    "id": "greek-empusa",
+    "name": "Empusa",
+    "tradition": "Greek",
+    "category": "Underworld beings",
+    "type": "Underworld beings",
+    "glyph": "🌑",
+    "aliases": "",
+    "description": "A frightening shape-changing being in Greek comic and later traditions.",
+    "sources": "Aristophanes, Frogs 285–305",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-lamia",
+    "name": "Lamia",
+    "tradition": "Greek",
+    "category": "Underworld beings",
+    "type": "Underworld beings",
+    "glyph": "🌑",
+    "aliases": "",
+    "description": "A child-devouring female monster whose stories evolve in later tradition.",
+    "sources": "Diodorus Siculus 20.41; later accounts",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-mormo",
+    "name": "Mormo",
+    "tradition": "Greek",
+    "category": "Underworld beings",
+    "type": "Underworld beings",
+    "glyph": "🌑",
+    "aliases": "",
+    "description": "A frightening figure invoked in tales used to scare children.",
+    "sources": "Aristophanes, Peace; ancient scholia",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-mormolyce",
+    "name": "Mormolyce",
+    "tradition": "Greek",
+    "category": "Underworld beings",
+    "type": "Underworld beings",
+    "glyph": "🌑",
+    "aliases": "",
+    "description": "A bogey figure linked with frightening children.",
+    "sources": "Ancient Greek literary and lexicographic tradition",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-keres",
+    "name": "Keres",
+    "tradition": "Greek",
+    "category": "Underworld beings",
+    "type": "Underworld beings",
+    "glyph": "🌑",
+    "aliases": "",
+    "description": "Death-spirits that haunt battle and mortality.",
+    "sources": "Hesiod, Shield of Heracles; Theogony",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-eurynomos",
+    "name": "Eurynomos",
+    "tradition": "Greek",
+    "category": "Underworld beings",
+    "type": "Underworld beings",
+    "glyph": "🌑",
+    "aliases": "",
+    "description": "A corpse-eating underworld figure described in an ancient painting.",
+    "sources": "Pausanias, Description of Greece 10.28.7",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-achlys",
+    "name": "Achlys",
+    "tradition": "Greek",
+    "category": "Underworld beings",
+    "type": "Underworld beings",
+    "glyph": "🌑",
+    "aliases": "",
+    "description": "A figure of misery depicted in horrifying detail in early poetry.",
+    "sources": "Hesiod, Shield of Heracles 264–270",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-melinoe",
+    "name": "Melinoe",
+    "tradition": "Greek",
+    "category": "Underworld beings",
+    "type": "Underworld beings",
+    "glyph": "🌑",
+    "aliases": "",
+    "description": "A spectral figure associated with nocturnal terror in an Orphic hymn.",
+    "sources": "Orphic Hymn 71",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-sybaris",
+    "name": "Sybaris",
+    "tradition": "Greek",
+    "category": "Underworld beings",
+    "type": "Underworld beings",
+    "glyph": "🌑",
+    "aliases": "",
+    "description": "A monstrous being linked with Delphi and a local hero story.",
+    "sources": "Antoninus Liberalis, Metamorphoses 8",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-erinyes",
+    "name": "Erinyes",
+    "tradition": "Greek",
+    "category": "Underworld beings",
+    "type": "Underworld beings",
+    "glyph": "🌑",
+    "aliases": "",
+    "description": "Avenging spirits with frightening appearances and an important divine role.",
+    "sources": "Aeschylus, Eumenides",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-bronze-bulls-of-colchis",
+    "name": "Bronze Bulls of Colchis",
+    "tradition": "Greek",
+    "category": "Automata",
+    "type": "Automata",
+    "glyph": "⚙️",
+    "aliases": "",
+    "description": "Fire-breathing bronze-hoofed bulls that Jason must yoke.",
+    "sources": "Apollonius Rhodius, Argonautica 3",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-talos",
+    "name": "Talos",
+    "tradition": "Greek",
+    "category": "Automata",
+    "type": "Automata",
+    "glyph": "⚙️",
+    "aliases": "",
+    "description": "A bronze guardian who circles Crete and confronts the Argonauts.",
+    "sources": "Apollonius Rhodius, Argonautica 4",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-golden-maidens",
+    "name": "Golden Maidens",
+    "tradition": "Greek",
+    "category": "Automata",
+    "type": "Automata",
+    "glyph": "⚙️",
+    "aliases": "",
+    "description": "Animated golden attendants fashioned by Hephaestus.",
+    "sources": "Homer, Iliad 18.417–420",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-golden-and-silver-dogs",
+    "name": "Golden and Silver Dogs",
+    "tradition": "Greek",
+    "category": "Automata",
+    "type": "Automata",
+    "glyph": "⚙️",
+    "aliases": "",
+    "description": "Wondrous metal watchdogs in the palace of Alcinous.",
+    "sources": "Homer, Odyssey 7.91–94",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-celedones",
+    "name": "Celedones",
+    "tradition": "Greek",
+    "category": "Automata",
+    "type": "Automata",
+    "glyph": "⚙️",
+    "aliases": "",
+    "description": "Singing golden figures associated with an early temple of Apollo.",
+    "sources": "Pindar, Paean 8; later testimonia",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-caberian-horses",
+    "name": "Caberian Horses",
+    "tradition": "Greek",
+    "category": "Automata",
+    "type": "Automata",
+    "glyph": "⚙️",
+    "aliases": "",
+    "description": "Fire-breathing metal horses associated with the Cabeiri.",
+    "sources": "Nonnus, Dionysiaca",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-daedalus-living-statues",
+    "name": "Daedalus' Living Statues",
+    "tradition": "Greek",
+    "category": "Automata",
+    "type": "Automata",
+    "glyph": "⚙️",
+    "aliases": "",
+    "description": "Legendary sculptures said to move, reflecting traditions about Daedalus' skill.",
+    "sources": "Plato, Meno 97d; later accounts",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-cretan-giant-turtle",
+    "name": "Cretan Giant Turtle",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A giant turtle associated with the robber Sciron in later accounts.",
+    "sources": "Plutarch, Theseus 10",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  },
+  {
+    "id": "greek-golden-sheep",
+    "name": "Golden Sheep",
+    "tradition": "Greek",
+    "category": "Mythical beasts",
+    "type": "Mythical beasts",
+    "glyph": "🐾",
+    "aliases": "",
+    "description": "A wondrous flock of dangerous golden-fleeced sheep in later epic lore.",
+    "sources": "Nonnus, Dionysiaca",
+    "variants": "Ancient accounts and artistic depictions may differ; the source lead should be checked before treating a detail as universal.",
+    "fieldGuide": {
+      "temperament": "Unclassified",
+      "habitat": "Tradition-dependent",
+      "danger": "Not assessed",
+      "note": "Fictional field-guide framework; not an ancient claim."
+    },
+    "evidence": "Ancient myth/literature"
+  }
+]
